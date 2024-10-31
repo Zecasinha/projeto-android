@@ -148,11 +148,9 @@ main a:hover {
     color: var(--cor4);
 }
 
-main img.pequena {
-    width: 50%;
+img, source {
     display: block;
     margin: auto;
-    max-width: 350px;
 }
 
 div.video {
